@@ -1,0 +1,34 @@
+_repo: Knickerbocker-s-History-of-New-York-Complete_13042
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Irving, Washington
+    alias: Crayon, Geoffrey
+    birthdate: 1783
+    deathdate: 1859
+    gutenberg_agent_id: '34'
+    url: http://www.gutenberg.org/2009/agents/34
+    wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
+description: In 1809, New Yorkers were buzzing about a series of classified ads concerning
+  the whereabouts of Dutch historian Diedrich Knickerbocker. They were unaware that
+  Washington Irving had invented the man entirely and placed the ads himself. Knickerbocker's
+  purported manuscript, A History of New York, was Irving's own. Told from Knickerbocker's
+  point of view, A History of New York is a chronicle of New York's fifty years under
+  Dutch rule in the 1600s that plays fast and loose with the facts, to uproarious
+  effect. A History of New York propelled Irving to the heights of literary stardom.
+gutenberg_issued: '2004-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13042'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F106'
+- !lcsh 'New York (State) -- History -- Colonial period, ca. 1600-1775'
+title: Knickerbocker's History of New York, Complete
+url: http://www.gutenberg.org/ebooks/13042
